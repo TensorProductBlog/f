@@ -1,5 +1,3 @@
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: "piharpi/jekyll-klise"
 title: "lucid's math blog"
-theme_color: spacegrey
 url: "tensorproduct.me"
-night_mode: "on"
