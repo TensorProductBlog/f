@@ -1,1 +1,4 @@
 remote_theme: "jeffreytse/jekyll-theme-yat"
+title: "lucid's math blog"
+spacegrey: #353535
+url: "tensorproduct.me"
